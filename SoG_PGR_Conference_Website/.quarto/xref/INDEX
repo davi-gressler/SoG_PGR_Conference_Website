@@ -1,0 +1,41 @@
+{
+  "about.qmd": {
+    "about.html": "6311ffd5"
+  },
+  "index.qmd": {
+    "index.html": "de8d09c0"
+  },
+  "Awards.qmd": {
+    "Awards.html": "0e562479"
+  },
+  "keynote.qmd": {
+    "keynote.html": "3c03df5b"
+  },
+  "Organisation.qmd": {
+    "Organisation.html": "8db865bf"
+  },
+  "Poster.qmd": {
+    "Poster.html": "56865735"
+  },
+  "Presentation.qmd": {
+    "Presentation.html": "1c02c05c"
+  },
+  "presenters.qmd": {
+    "presenters.html": "a5bf56e6"
+  },
+  "Social.qmd": {
+    "Social.html": "8eb7d2a9"
+  },
+  "Venue.qmd": {
+    "Venue.html": "010d679a"
+  },
+  "about2.qmd": {
+    "about2.html": "b4681b87"
+  },
+  "presenters2.qmd": {
+    "presenters2.html": "3eda133a"
+  },
+  "lightning.qmd": {
+    "lightning.html": "4616350f"
+  }
+}

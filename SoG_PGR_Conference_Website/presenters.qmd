@@ -1,0 +1,237 @@
+---
+title: "Abstracts"
+---
+
+## Session 1:
+
+### Ruqayya Butt, RBPM {#sec-ruqayya-butt-rbpm}
+
+**Title:** '*Implications of recent changes to the "glacier anomaly" in the Karakoram, Eastern Pamir, and Western Kunlun Mountains*'
+
+**Abstract:** TBC
+
+### Nick Eves, RBPM {#sec-nick-eves-rbpm}
+
+**Title:** Impact of windfarms on peatland carbon cycle processes
+
+**Abstract:** TBC
+
+### Paddy Smith, ISDS {#sec-paddy-smith-isds}
+
+**Title:** Hierarchical Structures and Anchors within Online Place Descriptions
+
+**Abstract:** TBC
+
+### Rayan Onyonka, ISDS {#sec-rayan-onyonka-isds}
+
+**Title:** Large language models for localised climate solutions: What can AI language models tell us about how textual information influences understanding of environmental issues?
+
+**Abstract:** Place-based climate action has emerged as a key method for the delivery of effective and context-specific responses to challenges at the local and regional levels. However, meaningful action depends heavily on access to reliable, expert knowledge presented in a format that is understandable and actionable for non-specialists, grounded in the local context.
+
+Large Language Models (LLMs) show promise as a method to deliver complex climate information in an accessible format, however, their effectiveness in local climate contexts is limited by possible hallucination and a lack of access to place-specific information. They have also not been tested yet in real-word context to evaluate their effectiveness in assisting local climate action. To address this, we propose a retrieval augmented (RAG) LLM assistant that integrates various local and national documents and policies with scientific reports to provide climate information that is grounded in local context.
+
+After technical evaluation, the assistant was tested in the context of a mini‑public on local climate action in Kirklees. Participants were asked to use the assistant as a source of information during the session to inform the creation of local climate‑related proposals, which were then forwarded to the local council for assessment. This process and the resulting proposals were compared against those produced by a control group operating without access to the assistant. Initial analysis suggests that retrieval‑based grounding improves the local relevance and interpretability of generated outputs and supports the development of more actionable proposals suitable for implementation by community groups or local councils.
+
+### Davi Gressler, ISDS {#sec-davi-gressler-isds}
+
+**Title:** Understanding Urban Cognitive Distance: Individuals, Places, and Time
+
+**Abstract:** TBC
+
+## Lightning Talks:
+
+### Reece Sawyer, RBPM {#sec-reece-sawyer-rbpm}
+
+**Title:** A remote sensing approach to glacier darkening in Europe
+
+**Abstract:** Glacier surface darkening can enhance melt by reducing albedo and increasing absorption of shortwave radiation, but the relative influence of changing surface state, atmospheric deposition and biological darkening remains difficult to distinguish at regional scales. This study investigates spatial and temporal glacier darkening across the European Alps using satellite remote sensing. As an initial benchmark, MODIS summer albedo was analysed across Switzerland from 2015 - 2024 using a fixed early-period glacier reference footprint. Annual June-August observations were reduced to median composites and pixel-wise albedo trends calculated. MODIS cells showed a mean trend of -0.00338 yr⁻¹, with 76.99% exhibiting darkening. Strong interannual variability was observed, including an exceptionally low-albedo summer in 2022, while the strongest supported negative trends occurred within the central glacier elevation range. These results demonstrate widespread but spatially and temporally variable darkening across the Swiss glacier reference domain. Ongoing work uses higher-resolution Sentinel-2 imagery to resolve seasonal surface-state evolution and localised darkening, before integrating atmospheric reanalysis and spectral indicators to investigate atmospheric and biologically driven contributions.
+
+### Joanne Michael, SJCC {#sec-joanne-michael-sjcc}
+
+**Title:** Ludic Neighbours
+
+**Abstract:** TBC
+
+### Giacomo Solari, ISDS {#sec-giacomo-solari-isds}
+
+**Title:** Dynamic Microsimulation for Health
+
+**Abstract:** TBC
+
+### Shaelyn Townend, RBPM {#sec-shaelyn-townend-rbpm}
+
+**Title:** Proglacial landscape evolution across the Antarctic Peninsula in a warming climate
+
+**Abstract:** TBC
+
+### Hannah Blount, RBPM {#sec-hannah-blount-rbpm}
+
+**Title:** Antifungal Resistance in Agricultural Soils
+
+**Abstract:** TBC
+
+### Poppy Webb, ISDS/ICAS {#sec-poppy-webb-isds-icas}
+
+**Title:** Quantifying uncertainty and outlining plausible futures for compound heat-health risks
+
+**Abstract:** TBC
+
+### Rosie Bibby, RBPM {#sec-rosie-bibby-rbpm}
+
+**Title:** Upland river ecosystem resilience to landscape-scale drought
+
+**Abstract:** TBC
+
+### Nancy Howe, RBPM {#sec-nancy-howe-rbpm}
+
+**Title:** Reducing uncertainty in glacial lake outburst flood (GLOF) risk and decision making
+
+**Abstract:** TBC
+
+### Ella Chalmers, RBPM {#sec-ella-chalmers-rbpm}
+
+**Title:** How can regenerative agriculture contribute to net zero?
+
+**Abstract:** TBC
+
+### Mohammad Shoeb Ansari, RBPM {#sec-mohammad-shoeb-ansari-rbpm}
+
+**Title:** Climate Change and Uncertainty in Catastrophe Modelling: Aligning UK Flood Risk Perceptions with Reality
+
+**Abstract:** TBC
+
+### Kieren Swift, EGC {#sec-kieren-swift-egc}
+
+**Title:** New methods for monitoring grassland degradation in Inner Mongolia
+
+**Abstract:** TBC
+
+## Session 2:
+
+### Anna Ray, EGC {#sec-anna-ray-egc}
+
+**Title:** Climate Change and Microbial Carbon Cycling in Tropical Forest Soils
+
+**Abstract:** TBC
+
+### Kelly O'Shea, RBPM {#sec-kelly-oshea-rbpm}
+
+**Title:** Determining Environmental Impact - Why Soil Matters
+
+**Abstract:** Soil is often treated as a waste sink, reflected in the language we use to describe it: dirty, filthy, or simply "dirt". Yet soil is a complex, living ecosystem that can take hundreds to thousands of years to form. Beneath our feet, intricate biological, chemical and physical processes underpin the health of terrestrial ecosystems and, ultimately, our own.
+
+Soil microbial communities drive essential ecosystem functions, including nutrient cycling, carbon storage, decomposition and water regulation. They also interact closely with plants, forming symbiotic relationships that support growth, nutrient acquisition, and resistance to pests and disease. Because these processes are largely invisible, people often overlook their importance.
+
+Healthy soils provide essential ecosystem services while also indicating environmental change, responding to pollution, contamination and climate pressures. Conversely, intensive agriculture, mechanisation and the introduction of contaminants such as microplastics and PFAS can disrupt soil communities and alter the movement and persistence of pollutants through ecosystems and food webs.
+
+Understanding soil ecology is therefore not simply about protecting what lies beneath our feet. It is about recognising the connections between soil, plants, animals, environmental health and human wellbeing, and exploring how soil microbiology can help us build healthier, more resilient ecosystems and communities.
+
+### Bhagya Sri Chintakula, ISDS {#sec-bhagya-sri-chintakula-isds}
+
+**Title:** Identifying Priority Places for Increasing Physical Activity in UK
+
+**Abstract:** TBC
+
+### Frank Chen, ISDS {#sec-frank-chen-isds}
+
+**Title:** Understanding the relationship between food behaviour and health outcomes
+
+**Abstract:** TBC
+
+### Ode Zulkarnain Sahji Tihurua, SJCC {#sec-ode-zulkarnain-sahji-tihurua-sjcc}
+
+**Title:** When is a Plantation a Ruin? Colonial Afterlives and the Uneven Postcolonial Landscape
+
+**Abstract:** When does a colonial plantation become a ruin? This question prompts a consideration of dominant understandings of colonial ruins as discrete, bounded remnants of the colonial past. Drawing on preliminary ethnographic work conducted in August 2026 in the Banda Islands, Indonesia, this article traces how the material, ecological, social, and institutional components that once constituted the colonial nutmeg plantation system followed divergent trajectories after the end of colonial rule. I develop the concept of 'differential afterlives' to describe how the heterogeneous components of a plantation formation persist, decay, adapt, or disappear according to distinct yet interconnected temporal trajectories. The varied conditions found across different sites demonstrate that colonial plantations did not become ruins simultaneously or as a coherent whole. The buildings, groves, nutmeg trees, production spaces, labour practices, social relations, and institutions that once formed the plantation persisted, decayed, grew, were repurposed, or were reconfigured through distinct temporalities. By shifting the focus from ruins as material objects to the differential processes through which plantation relations persist and transform, the article argues that ruination must be understood as a relational and uneven process. From this perspective, plantation ruins are not merely material evidence of a bygone colonial era but active components of the processes that continuously shape the postcolonial landscape of the Banda Islands.
+
+## Session 3:
+
+### Claudia Alvarado, RBPM {#sec-claudia-alvarado-rbpm}
+
+**Title:** (HI-RISE) Himalayan glacier-fed river and stream ecology: The extent to which macroinvertebrate and algal community structure and function is influenced by catchment glaciality in a monsoon-dominated climate
+
+**Abstract:** TBC
+
+### Rossana Escanilla-Minchel, RBPM {#sec-rossana-escanilla-minchel-rbpm}
+
+**Title:** Hydrological Responses to Climate and Land-Cover Change in Central Chile
+
+**Abstract:** TBC
+
+### Yasmin Belhadj, SJCC {#sec-yasmin-belhadj-sjcc}
+
+**Title:** Occupying space: surveillance and protest in UK universities
+
+**Abstract:** TBC
+
+### Jade Parker, ISDS {#sec-jade-parker-isds}
+
+**Title:** Community Sentence Requirements and the Construction of Reoffending
+
+**Abstract:** TBC
+
+### Keval Dodhia, EGC {#sec-keval-dodhia-egc}
+
+**Title:** Using novel hydraulic traits to determine hydraulic function of tropical trees through mechanistic modelling
+
+**Abstract:** TBC
+
+## Session 4:
+
+### Disha Bansal, SJCC {#sec-disha-bansal-sjcc}
+
+**Title:** Urban Redevelopment for whom? Developing practice-based knowledge for inclusive market redevelopment schemes in the UK
+
+**Abstract:** TBC
+
+### Yue Che, SJCC {#sec-yue-che-sjcc}
+
+**Title:** Rethinking the role of state-owned enterprises in Chinese urban governance: Taking the SOE jiashuyuan regeneration as an example
+
+**Abstract:** Research on political-business relations in China has largely focused on the collusion between stateowned enterprises (SOEs) and local governments. However, with the growth of the private sector and ongoing urbanization, the roles of SOEs, the private sector, and local states require further exploration. This research examines the urban renewal process of a residential community built by an SOE in a small industrial city in western China, exploring the roles of state-business relations in this process. Through ethnographic fieldwork, this research reveals that SOE collaborates closely with local governments and developers, using its influence to build a connection between local states and residents, reduce conflict to ensure project progress, and use collaborative frameworks to seek their benefits. the research highlights how SOEs play a role in urban renewal, while power struggles between residents and local states impact the SOEs' ability to gain further resources and influence, to contribute new theoretical insights into the role of state-business relations in China's urbanization.
+
+### Arthur Lamoliere, RBPM {#sec-arthur-lamoliere-rbpm}
+
+**Title:** Predicting biodiversity loss in mountain rivers due to glacier retreat
+
+**Abstract:** TBC
+
+### Imogen Carter, EGC {#sec-imogen-carter-egc}
+
+**Title:** Tree ring stable isotopes to infer climate and tree physiological responses to climate change
+
+**Abstract:** TBC
+
+## Session 5:
+
+### Sanola Sandiford, EGC {#sec-sanola-sandiford-egc}
+
+**Title:** Future Climate Impacts on Travel for Arctic Communities
+
+**Abstract:** TBC
+
+### Akhil Javad, EGC {#sec-akhil-javad-egc}
+
+**Title:** TBC
+
+**Abstract:** TBC
+
+### Tom Smith, RBPM {#sec-tom-smith-rbpm}
+
+**Title:** Hydrologically Informed Estimates of Malaria Transmission
+
+**Abstract:** TBC
+
+### Hannah Barnett, RBPM {#sec-hannah-barnett-rbpm}
+
+**Title:** A new global database of water availability to glaciers
+
+**Abstract:** TBC
+
+### Prahelika Deka, SJCC {#sec-prahelika-deka-sjcc}
+
+**Title:** (Re)Imagining climate futures: An ethnographic and creative exploration of futuremaking in Majuli Island, India
+
+**Abstract:** This project investigates the alternative, possible imagined futures of Majuli Island in Assam, India, based on people's social and temporal imaginaries. In the face of a rapidly changing climate and increasing reporting of floods and erosion, popular narratives of the island depict a dystopian future of complete submergence of the island. While dominant climate narratives portray Majuli's doomed future, this thesis argues that residents already inhabit multiple, competing futures that challenge this singular dystopian imaginary. Within such a scenario, this study examines how people imagine their futures as well as their island/river's futures and how intersecting social identities such as spiritual and everyday beliefs, age and gender influence their imagination.
+
+Using participant-led, creative methodologies, I respond to the emerging notion of an imagination crisis in climate change research. In doing so, I also engage with emerging literature on imagination, futures and plurality of waters and examine the everyday ways of life, the relationships people share with their land/river and the emotions that drive the meaning-making of both space and time. I argue there is not a lack of imagination but the failure in identifying and/or accommodating multiple alternate imagined futures from dominant climate imaginaries. This research is therefore significant and timely in addressing the frontline climate survivors' visions in Majuli and similar areas in the public and non-public discourses.
