@@ -2,12 +2,12 @@
 title: "Organisation"
 ---
 
-#### Organising Committee for the SoG PGR Conference 2024
+#### Organising Committee for the SoG PGR Conference 2026
 
--   [Holly Addis](https://environment.leeds.ac.uk/geography/pgr/13011/holly-addis), River Basin Processes and Management (RBPM)
--   [Prahelika Deka](https://environment.leeds.ac.uk/geography/pgr/11996/prahelika-deka), Social Justice, Cities and Citizenship (SJCC)
--   [Akhil Javad](), Ecology and Global change (EGC)
--   [Sanola Sandiford](https://panorama-dtp.ac.uk/about/current-pgrs/sanola-sandiford/), Ecology and Global change (EGC)
--   [Paddy Smith](https://environment.leeds.ac.uk/geography/pgr/12004/paddy-smith), Institute for Spatial Data Science (ISDS)
--   [Dr Megan Klaar](https://environment.leeds.ac.uk/geography/staff/1060/dr-megan-klaar), Director of Postgraduate Research Studies
--   [Dr Nick Hood](https://environment.leeds.ac.uk/geography/staff/1051/dr-nick-hood), Deputy Director of Postgraduate Research Studies
+- [Ruqayya Butt](https://environment.leeds.ac.uk/geography/pgr/21391/ruqayya-butt), River Basin Processes and Management (RBPM)
+- Claudia Alvarado, River Basin Processes and Management (RBPM)
+- Disha Bansal. Social Justice, Cities and Citizenship (SJCC)
+- Imogen Carter, Ecology and Global change (EGC)
+- [Davi Gressler](https://environment.leeds.ac.uk/geography-research-institute-spatial-data-science/pgr/21511/davi-gressler), Institute for Spatial Data Science (ISDS)
+- [Dr Megan Klaar](https://environment.leeds.ac.uk/geography/staff/1060/dr-megan-klaar), Director of Postgraduate Research Studies
+- [Dr Nick Hood](https://environment.leeds.ac.uk/geography/staff/1051/dr-nick-hood), Deputy Director of Postgraduate Research Studies

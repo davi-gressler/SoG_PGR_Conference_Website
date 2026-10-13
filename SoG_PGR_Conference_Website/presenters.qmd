@@ -2,7 +2,6 @@
 title: "Abstracts"
 ---
 
-## Session 1:
 
 ### Ruqayya Butt, RBPM {#sec-ruqayya-butt-rbpm}
 
@@ -70,7 +69,7 @@ After technical evaluation, the assistant was tested in the context of a mini‑
 
 **Abstract:** TBC
 
-### Poppy Webb, ISDS/ICAS {#sec-poppy-webb-isds-icas}
+### Poppy Webb, ISDS {#sec-poppy-webb-isds}
 
 **Title:** Quantifying uncertainty and outlining plausible futures for compound heat-health risks
 

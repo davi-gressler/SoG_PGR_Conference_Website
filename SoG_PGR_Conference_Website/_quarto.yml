@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "SoG PGR Conference 2025"
-  site-url: https://SoGPGRConference2025.github.io/SoG_PGR-Conference-2025-Webpage/
+  title: "SoG PGR Conference 2026"
+  site-url: https://davi-gressler.github.io/SoG_PGR-Conference-2026/
   navbar:
     background: success
     logo: "UoL Logo.jpg"
@@ -16,14 +16,12 @@ website:
         menu:
           - text: "Presentation " 
             href: Presentation.qmd
-          - text: "Poster"
-            href: Poster.qmd
           - text: "Lightning Talk"
             href: lightning.qmd
       - text: "Programme"
         menu:
           - text: "Conference Programme" 
-            href: about2.qmd
+            href: about.qmd
           - text: "Abstracts"
             href: presenters.qmd
       - text: "Organisation"
