@@ -4,7 +4,7 @@ project:
 
 website:
   title: "SoG PGR Conference 2026"
-  site-url: https://davi-gressler.github.io/SoG_PGR-Conference-2026/
+  site-url: https://davi-gressler.github.io/SoG_PGR_Conference_Website/
   navbar:
     background: success
     logo: "UoL Logo.jpg"
