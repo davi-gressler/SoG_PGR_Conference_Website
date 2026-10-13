@@ -24,6 +24,8 @@ website:
             href: about.qmd
           - text: "Abstracts"
             href: presenters.qmd
+      - text: "Awards"
+        href: Awards.qmd
       - text: "Organisation"
         href: Organisation.qmd
       - text: "Venue"
