@@ -1,1 +1,1 @@
-Sitemap: https://SoGPGRConference2026.github.io/SoG_PGR-Conference-2026-Webpage/sitemap.xml
+Sitemap: https://davi-gressler.github.io/SoG_PGR-Conference-2026/sitemap.xml

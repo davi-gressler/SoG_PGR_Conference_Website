@@ -105,6 +105,12 @@ After technical evaluation, the assistant was tested in the context of a mini‑
 
 **Abstract:** TBC
 
+### James Long, RBPM {#sec-james-long-rbpm}
+
+**Title:** Modelling the Coupled Hydrological and Carbon Impacts of Oil-Related Infrastructure on Congo Basin Peatlands using DigiBog_Hydro
+
+**Abstract:** TBC
+
 ## Session 2:
 
 ### Anna Ray, EGC {#sec-anna-ray-egc}
