@@ -8,8 +8,8 @@ The PGR conference has been a longstanding event within the School of Geography 
 
 The School of Geography PGR conference will include:
 
-- **9-min** [presentations](Presentation.qmd) from postgraduates followed by **3-min** Q&A
-- First year PGR [**lighting talk** session](lightning.qmd)
+- **9-min** [presentations](Presentation.qmd) from years 2, 3 and 4 PGRs followed by **3-min** Q&A
+- First year PGR and MRES [**lightning talk** session](lightning.qmd)
 - Lunch & social
 
 Lunch will be provided - however please **bring your own water bottle + mug** for refreshments!
