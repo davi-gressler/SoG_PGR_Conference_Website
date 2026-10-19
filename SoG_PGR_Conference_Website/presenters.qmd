@@ -38,80 +38,6 @@ After technical evaluation, the assistant was tested in the context of a mini‑
 
 **Abstract:** TBC
 
-## Lightning Talks:
-
-### Reece Sawyer, RBPM {#sec-reece-sawyer-rbpm}
-
-**Title:** A remote sensing approach to glacier darkening in Europe
-
-**Abstract:** Glacier surface darkening can enhance melt by reducing albedo and increasing absorption of shortwave radiation, but the relative influence of changing surface state, atmospheric deposition and biological darkening remains difficult to distinguish at regional scales. This study investigates spatial and temporal glacier darkening across the European Alps using satellite remote sensing. As an initial benchmark, MODIS summer albedo was analysed across Switzerland from 2015 - 2024 using a fixed early-period glacier reference footprint. Annual June-August observations were reduced to median composites and pixel-wise albedo trends calculated. MODIS cells showed a mean trend of -0.00338 yr⁻¹, with 76.99% exhibiting darkening. Strong interannual variability was observed, including an exceptionally low-albedo summer in 2022, while the strongest supported negative trends occurred within the central glacier elevation range. These results demonstrate widespread but spatially and temporally variable darkening across the Swiss glacier reference domain. Ongoing work uses higher-resolution Sentinel-2 imagery to resolve seasonal surface-state evolution and localised darkening, before integrating atmospheric reanalysis and spectral indicators to investigate atmospheric and biologically driven contributions.
-
-### Joanne Michael, SJCC {#sec-joanne-michael-sjcc}
-
-**Title:** Ludic Neighbours
-
-**Abstract:** TBC
-
-### Giacomo Solari, ISDS {#sec-giacomo-solari-isds}
-
-**Title:** Dynamic Microsimulation for Health
-
-**Abstract:** TBC
-
-### Shaelyn Townend, RBPM {#sec-shaelyn-townend-rbpm}
-
-**Title:** Proglacial landscape evolution across the Antarctic Peninsula in a warming climate
-
-**Abstract:** TBC
-
-### Hannah Blount, RBPM {#sec-hannah-blount-rbpm}
-
-**Title:** Antifungal Resistance in Agricultural Soils
-
-**Abstract:** TBC
-
-### Poppy Webb, ISDS {#sec-poppy-webb-isds}
-
-**Title:** Quantifying uncertainty and outlining plausible futures for compound heat-health risks
-
-**Abstract:** TBC
-
-### Rosie Bibby, RBPM {#sec-rosie-bibby-rbpm}
-
-**Title:** Upland river ecosystem resilience to landscape-scale drought
-
-**Abstract:** TBC
-
-### Nancy Howe, RBPM {#sec-nancy-howe-rbpm}
-
-**Title:** Reducing uncertainty in glacial lake outburst flood (GLOF) risk and decision making
-
-**Abstract:** TBC
-
-### Ella Chalmers, RBPM {#sec-ella-chalmers-rbpm}
-
-**Title:** How can regenerative agriculture contribute to net zero?
-
-**Abstract:** TBC
-
-### Mohammad Shoeb Ansari, RBPM {#sec-mohammad-shoeb-ansari-rbpm}
-
-**Title:** Climate Change and Uncertainty in Catastrophe Modelling: Aligning UK Flood Risk Perceptions with Reality
-
-**Abstract:** TBC
-
-### Kieren Swift, EGC {#sec-kieren-swift-egc}
-
-**Title:** New methods for monitoring grassland degradation in Inner Mongolia
-
-**Abstract:** TBC
-
-### James Long, RBPM {#sec-james-long-rbpm}
-
-**Title:** Modelling the Coupled Hydrological and Carbon Impacts of Oil-Related Infrastructure on Congo Basin Peatlands using DigiBog_Hydro
-
-**Abstract:** TBC
-
 ## Session 2:
 
 ### Anna Ray, EGC {#sec-anna-ray-egc}
@@ -242,3 +168,53 @@ Last year I collected tree ring cores of ancient Montezuma Baldcypress trees fro
 **Abstract:** This project investigates the alternative, possible imagined futures of Majuli Island in Assam, India, based on people's social and temporal imaginaries. In the face of a rapidly changing climate and increasing reporting of floods and erosion, popular narratives of the island depict a dystopian future of complete submergence of the island. While dominant climate narratives portray Majuli's doomed future, this thesis argues that residents already inhabit multiple, competing futures that challenge this singular dystopian imaginary. Within such a scenario, this study examines how people imagine their futures as well as their island/river's futures and how intersecting social identities such as spiritual and everyday beliefs, age and gender influence their imagination.
 
 Using participant-led, creative methodologies, I respond to the emerging notion of an imagination crisis in climate change research. In doing so, I also engage with emerging literature on imagination, futures and plurality of waters and examine the everyday ways of life, the relationships people share with their land/river and the emotions that drive the meaning-making of both space and time. I argue there is not a lack of imagination but the failure in identifying and/or accommodating multiple alternate imagined futures from dominant climate imaginaries. This research is therefore significant and timely in addressing the frontline climate survivors' visions in Majuli and similar areas in the public and non-public discourses.
+
+## Lightning Talks:
+
+### Reece Sawyer, RBPM {#sec-reece-sawyer-rbpm}
+
+**Title:** A remote sensing approach to glacier darkening in Europe
+
+### Joanne Michael, SJCC {#sec-joanne-michael-sjcc}
+
+**Title:** Ludic Neighbours
+
+### Giacomo Solari, ISDS {#sec-giacomo-solari-isds}
+
+**Title:** Dynamic Microsimulation for Health
+
+### Shaelyn Townend, RBPM {#sec-shaelyn-townend-rbpm}
+
+**Title:** Proglacial landscape evolution across the Antarctic Peninsula in a warming climate
+
+### Hannah Blount, RBPM {#sec-hannah-blount-rbpm}
+
+**Title:** Antifungal Resistance in Agricultural Soils
+
+### Poppy Webb, ISDS {#sec-poppy-webb-isds}
+
+**Title:** Quantifying uncertainty and outlining plausible futures for compound heat-health risks
+
+### Rosie Bibby, RBPM {#sec-rosie-bibby-rbpm}
+
+**Title:** Upland river ecosystem resilience to landscape-scale drought
+
+### Nancy Howe, RBPM {#sec-nancy-howe-rbpm}
+
+**Title:** Reducing uncertainty in glacial lake outburst flood (GLOF) risk and decision making
+
+### Ella Chalmers, RBPM {#sec-ella-chalmers-rbpm}
+
+**Title:** How can regenerative agriculture contribute to net zero?
+
+### Mohammad Shoeb Ansari, RBPM {#sec-mohammad-shoeb-ansari-rbpm}
+
+**Title:** Climate Change and Uncertainty in Catastrophe Modelling: Aligning UK Flood Risk Perceptions with Reality
+
+### Kieren Swift, EGC {#sec-kieren-swift-egc}
+
+**Title:** New methods for monitoring grassland degradation in Inner Mongolia
+
+### James Long, RBPM {#sec-james-long-rbpm}
+
+**Title:** Modelling the Coupled Hydrological and Carbon Impacts of Oil-Related Infrastructure on Congo Basin Peatlands using DigiBog_Hydro
