@@ -6,19 +6,13 @@ title: "Abstracts"
 
 ### Ruqayya Butt, RBPM {#sec-ruqayya-butt-rbpm}
 
-**Title:** '*Implications of recent changes to the "glacier anomaly" in the Karakoram, Eastern Pamir, and Western Kunlun Mountains*'
+**Title:** Implications of recent changes to the "glacier anomaly" in the Karakoram, Eastern Pamir, and Western Kunlun Mountains
 
 **Abstract:** TBC
 
 ### Nick Eves, RBPM {#sec-nick-eves-rbpm}
 
 **Title:** Impact of windfarms on peatland carbon cycle processes
-
-**Abstract:** TBC
-
-### Paddy Smith, ISDS {#sec-paddy-smith-isds}
-
-**Title:** Hierarchical Structures and Anchors within Online Place Descriptions
 
 **Abstract:** TBC
 
@@ -135,6 +129,12 @@ Understanding soil ecology is therefore not simply about protecting what lies be
 **Abstract:** Tree ring stable isotope ratios are powerful tools to develop precisely dated and highly resolved reconstructions of past climate as well as to provide insights into the physiological responses of trees to environmental changes. In this talk I discuss how I’m using tree ring isotopes (oxygen- δ18O, carbon- δ13C, hydrogen- δ2H) for these applications in my 2nd and 3rd thesis chapters.
 Last year I collected tree ring cores of ancient Montezuma Baldcypress trees from four sites in San Luis Potosí and Durango in Mexico, with the aim to assess potential climate-driven changes in their water-use efficiency. I discuss the surprising δ18O and δ13C trends since 1990 for these sites, and the implications of these pilot results for constructing a long-term tree ring chronology. I then dive into the results (and challenges!) so far for the Leverhulme project I’m a part of. The project aims to disentangle isotope signals originating from source water (reflecting large-scale climate) and from leaf water (reflecting local climate) in tree rings. This involves measuring δ18O and δ2H of tree ring constituents (lignin, cellulose, specific positions in cellulose) of tree ring samples collected across three altitudinal transects from La Palma, Hawaii and Peru. So far, we find δ18O and δ2H of tree ring cellulose reflects leaf water δ18O and δ2H trends along the altitudinal gradients, as expected. Surprisingly, δ2H of lignin shows no altitudinal trend, or reflects altitudinal changes in leaf water δ2H, in contrast to previous studies that show a strong correlation with source water δ2H across large spatial scales. I discuss possible reasons for this unexpected trend, and the exciting chemical methods I’m working on at the moment for the other isotope measurements.
 
+### Paddy Smith, ISDS {#sec-paddy-smith-isds}
+
+**Title:** Hierarchical Structures and Anchors within Online Place Descriptions
+
+**Abstract:** TBC
+
 ## Session 5:
 
 ### Sanola Sandiford, EGC {#sec-sanola-sandiford-egc}
@@ -169,7 +169,19 @@ Last year I collected tree ring cores of ancient Montezuma Baldcypress trees fro
 
 Using participant-led, creative methodologies, I respond to the emerging notion of an imagination crisis in climate change research. In doing so, I also engage with emerging literature on imagination, futures and plurality of waters and examine the everyday ways of life, the relationships people share with their land/river and the emotions that drive the meaning-making of both space and time. I argue there is not a lack of imagination but the failure in identifying and/or accommodating multiple alternate imagined futures from dominant climate imaginaries. This research is therefore significant and timely in addressing the frontline climate survivors' visions in Majuli and similar areas in the public and non-public discourses.
 
-## Lightning Talks:
+## Lightning Talk Session:
+
+### Xuanlin Zhu, ISDS {#sec-xuanlin-zhu-isds}
+
+**Title:** Crime-Category Aggregation and Location Anonymisation: Impacts on Spatial Analysis
+
+### Johnny Cort, RBPM {#sec-johnny-cort-rbpm}
+
+**Title**: The Future of Himalayan Glacial Lakes: Uncovering Subsurface Features and Instabilities with Fieldwork and Remote Sensing Observations
+
+### Chifuniro Baluwa, ISDS {#sec-chifuniro-baluwa-isds}
+
+**Title:** Spatially Explicit GIS-Agent Based Modelling for Cholera Prevention and Response in Blantyre, Malawi
 
 ### Reece Sawyer, RBPM {#sec-reece-sawyer-rbpm}
 
