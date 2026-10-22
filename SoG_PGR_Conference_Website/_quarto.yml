@@ -22,7 +22,7 @@ website:
         menu:
           - text: "Conference Programme" 
             href: about.qmd
-          - text: "Abstracts"
+          - text: "Presenters"
             href: presenters.qmd
       - text: "Awards"
         href: Awards.qmd
