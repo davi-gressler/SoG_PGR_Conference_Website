@@ -72,7 +72,13 @@ This project aims to bridge those gaps. Understanding how different individuals 
 
 **Title:** Climate Change and Microbial Carbon Cycling in Tropical Forest Soils
 
-**Abstract:** TBC
+**Abstract:** Tropical forests are crucial for regulating the Earth’s climate, playing a key role in global carbon (C) cycling through atmospheric Carbon Dioxide (CO₂) exchange. The interactive impacts of higher temperatures and changes to precipitation patterns due to climatic change could substantially alter microbially mediated CO₂ emissions from tropical forest soils. 
+
+The presentation will discuss field observations showing CO₂ response from tropical forest soils after 9 years of experimental warming (+3 °C) (Barro Colorado Island, Panama). Preliminary findings indicate for every 1°C increase in soil temperature compared to ambient, CO₂ efflux increases by about 0.76 μmol CO₂ m⁻² s⁻¹. Temporal variation of this effect was evident, with higher emissions from June – September (wet season) but not during the dry season suggesting an important temperature and moisture interaction. 
+
+Laboratory incubations were informed by field-observed CO₂ response and used to examine the microbial mechanisms underlying the warming effects. Interactions of microbial physiological response were later evaluated through assessing microbial activity, substrate availability and extracellular enzyme activity (EEA), but are beyond the scope of this presentation. 
+
+Linking field observations with mechanistic investigations, this research aims to improve our understanding of the processes driving tropical soil C responses to climate change and to provide evidence for improving representation of tropical soil processes in Earth System Models.
 
 ### Kelly O'Shea, RBPM {#sec-kelly-oshea-rbpm}
 
@@ -96,7 +102,7 @@ Understanding soil ecology is therefore not simply about protecting what lies be
 
 **Title:** Understanding the relationship between food behaviour and health outcomes
 
-**Abstract:** TBC
+**Abstract:** Supermarket transaction data offer new opportunities to understand food purchasing behaviours and their relationships with population health. However, translating these records into meaningful measures of dietary exposure remains challenging due to temporal variability, population heterogeneity and the geographical mismatch between shopping and residential locations. This research develops a framework for using transaction data to estimate habitual food purchasing patterns and their associations with health outcomes at small-area levels. It first examines the temporal stability of purchasing behaviours and the observation periods required to identify habitual patterns. Spatial interaction modelling and geodemographic calibration are then used to account for cross-boundary shopping and differences between shoppers and resident populations. Finally, purchasing measures are calibrated against dietary intake data and linked to local health indicators. By addressing the temporal, spatial and population representativeness of transaction data, this research aims to strengthen their application in nutritional epidemiology and place-based public health research.
 
 ### Ode Zulkarnain Sahji Tihurua, SJCC {#sec-ode-zulkarnain-sahji-tihurua-sjcc}
 
@@ -140,7 +146,7 @@ Understanding soil ecology is therefore not simply about protecting what lies be
 
 **Title:** (HI-RISE) Himalayan glacier-fed river and stream ecology: The extent to which macroinvertebrate and algal community structure and function is influenced by catchment glaciality in a monsoon-dominated climate
 
-**Abstract:** TBC
+**Abstract:** Himalayan glacier-fed streams are critically understudied, and the potential impact of projected warming and future glacier loss on constituent ecosystems is unknown. Results from other alpine regions cannot be easily extrapolated to Himalayan contexts, where streams are subject to stronger forcings (in terms of relative altitude, temperature, oxygen limitation, UV exposure and unique monsoon influence) and may host rare and cryptic endemics. This research explores the relationship between glacier indices, hydrochemical variables, and stream ecology community metrics described in existing studies from the Himalayan region and derived from in depth sampling of 20 streams in Sagarmatha National Park, Nepal (spanning 3300-4800m altitude and 0%-74% catchment glacier cover) in April and October 2025. The research will investigate macroinvertebrate and algal community responses in particular, aiming to highlight the implications of these responses on ecosystem functioning, wider food webs and human water users.
 
 ### Rossana Escanilla-Minchel, RBPM {#sec-rossana-escanilla-minchel-rbpm}
 
@@ -152,7 +158,11 @@ Understanding soil ecology is therefore not simply about protecting what lies be
 
 **Title:** Occupying space: surveillance and protest in UK universities
 
-**Abstract:** TBC
+**Abstract:** Since 2020, student activist movements have re-emerged within UK universities, coinciding with the growing criminalisation of protest. Parallel to this surge, many universities have acted as an extension of state control, responding to student protest with securitisation measures through the extensive use of surveillance apparatus and academic punishment. This project focuses on this phenomenon, investigating the ways in which universities have engaged with and reacted to student protest groups during 2020-2025. First, it examines how securitisation has become normalised within universities as a response to protest. Second, it explores how universities use surveillance and its coercive effects on student protestors. Finally, it examines how universities use negotiation tactics and bureaucracy to demobilise protest.
+
+This research contributes to existing scholarship on protest repression in the UK, focusing on three recent sites of struggle within universities. This project helps disseminate the knowledge and experiences of people facing violence and criminalisation within universities. Drawing from militant ethnographies, anarchist methodologies and scholar-activism, this thesis analyses fourteen semi-structured interviews of student activists from three anonymised UK universities. Freedom of Information requests were also used to collect data on campus security budgets and relationships to the police and armed forces.
+
+The findings from this study show that universities perceive protest as a threat to their campuses and have constructed narratives of crisis to delegitimise protest. While the universities are not as well equipped at surveillance as the police, they do have the surveillance capabilities to punish student protestors and often emulate their aesthetics through their uniforms and mannerisms. The findings also indicate that the universities in practice lack competence at surveillance, and that the idea of the university as a panoptic institution may be more effective at deterring protest.
 
 ### Jade Parker, ISDS {#sec-jade-parker-isds}
 
@@ -172,7 +182,8 @@ Understanding soil ecology is therefore not simply about protecting what lies be
 
 **Title:** Urban Redevelopment for whom? Developing practice-based knowledge for inclusive market redevelopment schemes in the UK
 
-**Abstract:** TBC
+**Abstract:** My research explores the redevelopment of traditional retail markets in the UK and is interdisciplinary in nature as it draws from multiple disciplines - critical geography, urban studies, architecture, and sociology to explore how traditional markets acts as social public spaces. These traditional markets have been important spaces within the local economy providing affordable and culturally diverse food and drink options to migrant populations, low-income communities, ethnic minority groups, and the elderly in the UK. However, they are facing increasing pressures of gentrification which risk these vulnerable communities and their access to affordable food and other goods and services. These markets are often transformed into gourmet markets post redevelopment catering to higher-income groups. This gourmetisation of food reflects a class and race-based process wherein a segment of Western societies imposes narrow definitions of what constitutes ‘healthy’ food, often with limited tolerance for the cultural food practices of marginalized and migrant groups. The research also aims to explore how social relationships among traders, customers, local authorities, market managers, architects and campaign groups are reshaped during redevelopment processes, paying particular attention to the power dynamics that influence whose voices, interests, and forms of knowledge are prioritised in decision-making.
+This research explores the diverse rhythms of the market, including traders setting up the market stall, customer engagement, informal conversations, variations in activity across the day and the process of market closure and moving to the temporary market site. Ultimately, the project aims that future market redevelopment schemes support existing marginalised communities rather than contribute to their exclusion or displacement. 
 
 ### Yue Che, SJCC {#sec-yue-che-sjcc}
 
@@ -208,7 +219,8 @@ Understanding soil ecology is therefore not simply about protecting what lies be
 
 ### Akhil Javad, EGC {#sec-akhil-javad-egc}
 
-**Title:** TBC
+**Title:** Accelerated Growth in
+Regenerating Boreal Forests
 
 **Abstract:** TBC
 
