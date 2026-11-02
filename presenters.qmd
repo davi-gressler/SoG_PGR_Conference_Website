@@ -8,8 +8,6 @@ title: "Presenters"
 
 **Title:** Impact of windfarms on peatland carbon cycle processes
 
-**Abstract:** TBC
-
 ### Rayan Onyonka, ISDS {#sec-rayan-onyonka-isds}
 
 **Title:** Large language models for localised climate solutions: What can AI language models tell us about how textual information influences understanding of environmental issues?
@@ -34,8 +32,7 @@ This project aims to bridge those gaps. Understanding how different individuals 
 
 **Title:** Urban Redevelopment for whom? Developing practice-based knowledge for inclusive market redevelopment schemes in the UK
 
-**Abstract:** My research explores the redevelopment of traditional retail markets in the UK and is interdisciplinary in nature as it draws from multiple disciplines - critical geography, urban studies, architecture, and sociology to explore how traditional markets acts as social public spaces. These traditional markets have been important spaces within the local economy providing affordable and culturally diverse food and drink options to migrant populations, low-income communities, ethnic minority groups, and the elderly in the UK. However, they are facing increasing pressures of gentrification which risk these vulnerable communities and their access to affordable food and other goods and services. These markets are often transformed into gourmet markets post redevelopment catering to higher-income groups. This gourmetisation of food reflects a class and race-based process wherein a segment of Western societies imposes narrow definitions of what constitutes ‘healthy’ food, often with limited tolerance for the cultural food practices of marginalized and migrant groups. The research also aims to explore how social relationships among traders, customers, local authorities, market managers, architects and campaign groups are reshaped during redevelopment processes, paying particular attention to the power dynamics that influence whose voices, interests, and forms of knowledge are prioritised in decision-making.
-This research explores the diverse rhythms of the market, including traders setting up the market stall, customer engagement, informal conversations, variations in activity across the day and the process of market closure and moving to the temporary market site. Ultimately, the project aims that future market redevelopment schemes support existing marginalised communities rather than contribute to their exclusion or displacement. 
+**Abstract:** My research explores the redevelopment of traditional retail markets in the UK and is interdisciplinary in nature as it draws from multiple disciplines - critical geography, urban studies, architecture, and sociology to explore how traditional markets acts as social public spaces. These traditional markets have been important spaces within the local economy providing affordable and culturally diverse food and drink options to migrant populations, low-income communities, ethnic minority groups, and the elderly in the UK. However, they are facing increasing pressures of gentrification which risk these vulnerable communities and their access to affordable food and other goods and services. These markets are often transformed into gourmet markets post redevelopment catering to higher-income groups. This gourmetisation of food reflects a class and race-based process wherein a segment of Western societies imposes narrow definitions of what constitutes ‘healthy’ food, often with limited tolerance for the cultural food practices of marginalized and migrant groups. The research also aims to explore how social relationships among traders, customers, local authorities, market managers, architects and campaign groups are reshaped during redevelopment processes, paying particular attention to the power dynamics that influence whose voices, interests, and forms of knowledge are prioritised in decision-making. This research explores the diverse rhythms of the market, including traders setting up the market stall, customer engagement, informal conversations, variations in activity across the day and the process of market closure and moving to the temporary market site. Ultimately, the project aims that future market redevelopment schemes support existing marginalised communities rather than contribute to their exclusion or displacement.
 
 ## Lightning Talks Session 1: {#sec-lightning-talks-session-1}
 
@@ -69,11 +66,11 @@ This research explores the diverse rhythms of the market, including traders sett
 
 **Title:** Climate Change and Microbial Carbon Cycling in Tropical Forest Soils
 
-**Abstract:** Tropical forests are crucial for regulating the Earth’s climate, playing a key role in global carbon (C) cycling through atmospheric Carbon Dioxide (CO₂) exchange. The interactive impacts of higher temperatures and changes to precipitation patterns due to climatic change could substantially alter microbially mediated CO₂ emissions from tropical forest soils. 
+**Abstract:** Tropical forests are crucial for regulating the Earth’s climate, playing a key role in global carbon (C) cycling through atmospheric Carbon Dioxide (CO₂) exchange. The interactive impacts of higher temperatures and changes to precipitation patterns due to climatic change could substantially alter microbially mediated CO₂ emissions from tropical forest soils.
 
-The presentation will discuss field observations showing CO₂ response from tropical forest soils after 9 years of experimental warming (+3 °C) (Barro Colorado Island, Panama). Preliminary findings indicate for every 1°C increase in soil temperature compared to ambient, CO₂ efflux increases by about 0.76 μmol CO₂ m⁻² s⁻¹. Temporal variation of this effect was evident, with higher emissions from June – September (wet season) but not during the dry season suggesting an important temperature and moisture interaction. 
+The presentation will discuss field observations showing CO₂ response from tropical forest soils after 9 years of experimental warming (+3 °C) (Barro Colorado Island, Panama). Preliminary findings indicate for every 1°C increase in soil temperature compared to ambient, CO₂ efflux increases by about 0.76 μmol CO₂ m⁻² s⁻¹. Temporal variation of this effect was evident, with higher emissions from June – September (wet season) but not during the dry season suggesting an important temperature and moisture interaction.
 
-Laboratory incubations were informed by field-observed CO₂ response and used to examine the microbial mechanisms underlying the warming effects. Interactions of microbial physiological response were later evaluated through assessing microbial activity, substrate availability and extracellular enzyme activity (EEA), but are beyond the scope of this presentation. 
+Laboratory incubations were informed by field-observed CO₂ response and used to examine the microbial mechanisms underlying the warming effects. Interactions of microbial physiological response were later evaluated through assessing microbial activity, substrate availability and extracellular enzyme activity (EEA), but are beyond the scope of this presentation.
 
 Linking field observations with mechanistic investigations, this research aims to improve our understanding of the processes driving tropical soil C responses to climate change and to provide evidence for improving representation of tropical soil processes in Earth System Models.
 
@@ -86,8 +83,6 @@ Linking field observations with mechanistic investigations, this research aims t
 ### Bhagya Sri Chintakula, ISDS {#sec-bhagya-sri-chintakula-isds}
 
 **Title:** Identifying Priority Places for Increasing Physical Activity in UK
-
-**Abstract:** TBC
 
 ### Frank Chen, ISDS {#sec-frank-chen-isds}
 
@@ -137,8 +132,6 @@ Linking field observations with mechanistic investigations, this research aims t
 
 **Title:** Hydrological Responses to Climate and Land-Cover Change in Central Chile
 
-**Abstract:** TBC
-
 ### Yasmin Belhadj, SJCC {#sec-yasmin-belhadj-sjcc}
 
 **Title:** Occupying space: surveillance and protest in UK universities
@@ -153,17 +146,15 @@ The findings from this study show that universities perceive protest as a threat
 
 **Title:** Community Sentence Requirements and the Construction of Reoffending
 
-**Abstract:** TBC
-
 ### Keval Dodhia, EGC {#sec-keval-dodhia-egc}
 
 **Title:** Using novel hydraulic traits to determine hydraulic function of tropical trees through mechanistic modelling
 
-**Abstract:** Southern Amazon forests are among the driest, and most seasonal forests in the Amazon. Projected climate change is expected to increase stress on these forests. Observed  temperatures and VPD are rising, drought frequency increases, and dry seasons get longer. Which species will cope and which will be most at risk remains unclear. 
+**Abstract:** Southern Amazon forests are among the driest, and most seasonal forests in the Amazon. Projected climate change is expected to increase stress on these forests. Observed temperatures and VPD are rising, drought frequency increases, and dry seasons get longer. Which species will cope and which will be most at risk remains unclear.
 
 Together these changes are expected to increase the stress on tropical tree hydraulic system (water conductance from soil to canopy) and some of the species may become vulnerable to hydraulic failure. In order to predict how hydraulic stress will affect composition of these forests a suitable tree model should be able to represent the hydraulic system of trees and its thresholds to hydraulic failure (embolisms). Thus it should predict water potentials through the plant to relate to hydraulic safety margins. Similarly the model should have a realistic representation of soil water conductance to predict soil potential profiles.
 
-Here we profit from an ongoing drought experiment in Tanguro, Mato Grosso, in the southern Amazon with comprehensible datasets related to hydraulics to test the ability of such a model – Sperry model for the tree and Richards model for soils. 
+Here we profit from an ongoing drought experiment in Tanguro, Mato Grosso, in the southern Amazon with comprehensible datasets related to hydraulics to test the ability of such a model – Sperry model for the tree and Richards model for soils.
 
 Here I show the current effectiveness of the model, set-backs, and resolutions I am working on. I show how the data is collected for modelling, the detailed data sets we must use to drive the model, and what inputs will will need in the future.
 
@@ -179,8 +170,6 @@ Here I show the current effectiveness of the model, set-backs, and resolutions I
 
 **Title:** Predicting biodiversity loss in mountain rivers due to glacier retreat
 
-**Abstract:** TBC
-
 ### Imogen Carter, EGC {#sec-imogen-carter-egc}
 
 **Title:** Tree ring stable isotopes to infer climate and tree physiological responses to climate change
@@ -190,8 +179,6 @@ Here I show the current effectiveness of the model, set-backs, and resolutions I
 ### Paddy Smith, ISDS {#sec-paddy-smith-isds}
 
 **Title:** Hierarchical Structures and Anchors within Online Place Descriptions
-
-**Abstract:** TBC
 
 ## Session 5:
 
@@ -203,10 +190,7 @@ Here I show the current effectiveness of the model, set-backs, and resolutions I
 
 ### Akhil Javad, EGC {#sec-akhil-javad-egc}
 
-**Title:** Accelerated Growth in
-Regenerating Boreal Forests
-
-**Abstract:** TBC
+**Title:** Accelerated Growth in Regenerating Boreal Forests
 
 ### Tom Smith, RBPM {#sec-tom-smith-rbpm}
 
