@@ -4,12 +4,6 @@ title: "Presenters"
 
 ## Session 1:
 
-### Ruqayya Butt, RBPM {#sec-ruqayya-butt-rbpm}
-
-**Title:** Implications of recent changes to the "glacier anomaly" in the Karakoram, Eastern Pamir, and Western Kunlun Mountains
-
-**Abstract:** TBC
-
 ### Nick Eves, RBPM {#sec-nick-eves-rbpm}
 
 **Title:** Impact of windfarms on peatland carbon cycle processes
@@ -36,11 +30,14 @@ At the same time, scholars in spatial cognition have spent decades trying to und
 
 This project aims to bridge those gaps. Understanding how different individuals understand distance differently, how the distribution of places in space is conceptualized, and how this varies through time will allow for the creation of new metrics of accessibility that explicitly consider how distances between unseen places are actually felt, and what implications this may bring to urban planning.
 
+### Disha Bansal, SJCC {#sec-disha-bansal-sjcc}
+
+**Title:** Urban Redevelopment for whom? Developing practice-based knowledge for inclusive market redevelopment schemes in the UK
+
+**Abstract:** My research explores the redevelopment of traditional retail markets in the UK and is interdisciplinary in nature as it draws from multiple disciplines - critical geography, urban studies, architecture, and sociology to explore how traditional markets acts as social public spaces. These traditional markets have been important spaces within the local economy providing affordable and culturally diverse food and drink options to migrant populations, low-income communities, ethnic minority groups, and the elderly in the UK. However, they are facing increasing pressures of gentrification which risk these vulnerable communities and their access to affordable food and other goods and services. These markets are often transformed into gourmet markets post redevelopment catering to higher-income groups. This gourmetisation of food reflects a class and race-based process wherein a segment of Western societies imposes narrow definitions of what constitutes ‘healthy’ food, often with limited tolerance for the cultural food practices of marginalized and migrant groups. The research also aims to explore how social relationships among traders, customers, local authorities, market managers, architects and campaign groups are reshaped during redevelopment processes, paying particular attention to the power dynamics that influence whose voices, interests, and forms of knowledge are prioritised in decision-making.
+This research explores the diverse rhythms of the market, including traders setting up the market stall, customer engagement, informal conversations, variations in activity across the day and the process of market closure and moving to the temporary market site. Ultimately, the project aims that future market redevelopment schemes support existing marginalised communities rather than contribute to their exclusion or displacement. 
+
 ## Lightning Talks Session 1: {#sec-lightning-talks-session-1}
-
-### Joanne Michael, SJCC {#sec-joanne-michael-sjcc}
-
-**Title:** Ludic Neighbours
 
 ### Reece Sawyer, RBPM {#sec-reece-sawyer-rbpm}
 
@@ -80,17 +77,11 @@ Laboratory incubations were informed by field-observed CO₂ response and used t
 
 Linking field observations with mechanistic investigations, this research aims to improve our understanding of the processes driving tropical soil C responses to climate change and to provide evidence for improving representation of tropical soil processes in Earth System Models.
 
-### Kelly O'Shea, RBPM {#sec-kelly-oshea-rbpm}
+### Claudia Alvarado, RBPM {#sec-claudia-alvarado-rbpm}
 
-**Title:** Determining Environmental Impact - Why Soil Matters
+**Title:** (HI-RISE) Himalayan glacier-fed river and stream ecology: The extent to which macroinvertebrate and algal community structure and function is influenced by catchment glaciality in a monsoon-dominated climate
 
-**Abstract:** Soil is often treated as a waste sink, reflected in the language we use to describe it: dirty, filthy, or simply "dirt". Yet soil is a complex, living ecosystem that can take hundreds to thousands of years to form. Beneath our feet, intricate biological, chemical and physical processes underpin the health of terrestrial ecosystems and, ultimately, our own.
-
-Soil microbial communities drive essential ecosystem functions, including nutrient cycling, carbon storage, decomposition and water regulation. They also interact closely with plants, forming symbiotic relationships that support growth, nutrient acquisition, and resistance to pests and disease. Because these processes are largely invisible, people often overlook their importance.
-
-Healthy soils provide essential ecosystem services while also indicating environmental change, responding to pollution, contamination and climate pressures. Conversely, intensive agriculture, mechanisation and the introduction of contaminants such as microplastics and PFAS can disrupt soil communities and alter the movement and persistence of pollutants through ecosystems and food webs.
-
-Understanding soil ecology is therefore not simply about protecting what lies beneath our feet. It is about recognising the connections between soil, plants, animals, environmental health and human wellbeing, and exploring how soil microbiology can help us build healthier, more resilient ecosystems and communities.
+**Abstract:** Himalayan glacier-fed streams are critically understudied, and the potential impact of projected warming and future glacier loss on constituent ecosystems is unknown. Results from other alpine regions cannot be easily extrapolated to Himalayan contexts, where streams are subject to stronger forcings (in terms of relative altitude, temperature, oxygen limitation, UV exposure and unique monsoon influence) and may host rare and cryptic endemics. This research explores the relationship between glacier indices, hydrochemical variables, and stream ecology community metrics described in existing studies from the Himalayan region and derived from in depth sampling of 20 streams in Sagarmatha National Park, Nepal (spanning 3300-4800m altitude and 0%-74% catchment glacier cover) in April and October 2025. The research will investigate macroinvertebrate and algal community responses in particular, aiming to highlight the implications of these responses on ecosystem functioning, wider food webs and human water users.
 
 ### Bhagya Sri Chintakula, ISDS {#sec-bhagya-sri-chintakula-isds}
 
@@ -142,12 +133,6 @@ Understanding soil ecology is therefore not simply about protecting what lies be
 
 ## Session 3:
 
-### Claudia Alvarado, RBPM {#sec-claudia-alvarado-rbpm}
-
-**Title:** (HI-RISE) Himalayan glacier-fed river and stream ecology: The extent to which macroinvertebrate and algal community structure and function is influenced by catchment glaciality in a monsoon-dominated climate
-
-**Abstract:** Himalayan glacier-fed streams are critically understudied, and the potential impact of projected warming and future glacier loss on constituent ecosystems is unknown. Results from other alpine regions cannot be easily extrapolated to Himalayan contexts, where streams are subject to stronger forcings (in terms of relative altitude, temperature, oxygen limitation, UV exposure and unique monsoon influence) and may host rare and cryptic endemics. This research explores the relationship between glacier indices, hydrochemical variables, and stream ecology community metrics described in existing studies from the Himalayan region and derived from in depth sampling of 20 streams in Sagarmatha National Park, Nepal (spanning 3300-4800m altitude and 0%-74% catchment glacier cover) in April and October 2025. The research will investigate macroinvertebrate and algal community responses in particular, aiming to highlight the implications of these responses on ecosystem functioning, wider food webs and human water users.
-
 ### Rossana Escanilla-Minchel, RBPM {#sec-rossana-escanilla-minchel-rbpm}
 
 **Title:** Hydrological Responses to Climate and Land-Cover Change in Central Chile
@@ -183,13 +168,6 @@ Here we profit from an ongoing drought experiment in Tanguro, Mato Grosso, in th
 Here I show the current effectiveness of the model, set-backs, and resolutions I am working on. I show how the data is collected for modelling, the detailed data sets we must use to drive the model, and what inputs will will need in the future.
 
 ## Session 4:
-
-### Disha Bansal, SJCC {#sec-disha-bansal-sjcc}
-
-**Title:** Urban Redevelopment for whom? Developing practice-based knowledge for inclusive market redevelopment schemes in the UK
-
-**Abstract:** My research explores the redevelopment of traditional retail markets in the UK and is interdisciplinary in nature as it draws from multiple disciplines - critical geography, urban studies, architecture, and sociology to explore how traditional markets acts as social public spaces. These traditional markets have been important spaces within the local economy providing affordable and culturally diverse food and drink options to migrant populations, low-income communities, ethnic minority groups, and the elderly in the UK. However, they are facing increasing pressures of gentrification which risk these vulnerable communities and their access to affordable food and other goods and services. These markets are often transformed into gourmet markets post redevelopment catering to higher-income groups. This gourmetisation of food reflects a class and race-based process wherein a segment of Western societies imposes narrow definitions of what constitutes ‘healthy’ food, often with limited tolerance for the cultural food practices of marginalized and migrant groups. The research also aims to explore how social relationships among traders, customers, local authorities, market managers, architects and campaign groups are reshaped during redevelopment processes, paying particular attention to the power dynamics that influence whose voices, interests, and forms of knowledge are prioritised in decision-making.
-This research explores the diverse rhythms of the market, including traders setting up the market stall, customer engagement, informal conversations, variations in activity across the day and the process of market closure and moving to the temporary market site. Ultimately, the project aims that future market redevelopment schemes support existing marginalised communities rather than contribute to their exclusion or displacement. 
 
 ### Yue Che, SJCC {#sec-yue-che-sjcc}
 
